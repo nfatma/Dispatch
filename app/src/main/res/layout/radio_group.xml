@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RadioGroup android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+<RadioButton
+    android:id="@+id/top_radio"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:text="top_headlines"
+    android:checked="true"/>
+
+<RadioButton
+    android:id="@+id/Every_radio"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:text="All Headlines" />
+</RadioGroup>

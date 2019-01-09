@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Newswrap</string>
+    <string name="open">Open</string>
+    <string name="close">Closed</string>
+    <string name="alert">Alert</string>
+    <string name="alrt_mssg">Are you sure you want to exit Newswrap?</string>
+</resources>
